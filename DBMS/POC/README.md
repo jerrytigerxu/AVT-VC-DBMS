@@ -8,3 +8,16 @@
   - Base ID: appmXtJKw9kGWHR0J
 - Shortcode implementation
   - Add PHP code in 'functions.php' + utilize shortcode to embed code into Wordpress pages (experimental branch - use Chloe's SO email)
+- Demonstrate to the marketing and production teams what Airtable x APIs can do
+
+---
+
+## ReD
+- Functional requirements:
+  - I want to have a working POC test on a page in the AVT experimental branch such that a dynamic "copy" of an Airtable table is displayed on Wordpress
+  - This "copy" should be updated dynamically whenever the data on Airtable is updated/changed
+
+## TDD
+
+## Streamlining (PAC)
+- We'll need to figure out how to simplify the process of actually creating the shortcode (so we don't need to make a new function for every new stock product table) -> maybe generate the shortcode would take into account the name of the page and use that to pull the correct data from Airtable?
