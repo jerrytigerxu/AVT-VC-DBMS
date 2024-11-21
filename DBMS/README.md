@@ -16,7 +16,7 @@
 
 
 ## TDD
-- **POC stage** - Create a simple POC test with Airtable and establish connection with production team
+- [**POC stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/POC) - Create a simple POC test with Airtable and establish connection with production team
 - **Alpha stage** - Full implementation of the DBMS system on the experimental branch (communication and tech stack) + gathering of feedback and consideration of enhancements
 - **Beta stage** - Full implementation of the DBMS system on the production site
 
