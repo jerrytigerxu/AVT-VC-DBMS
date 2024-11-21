@@ -13,7 +13,7 @@
 
 
 
-## ReD
+## ~~ReD~~
 - [Proposal Document](https://docs.google.com/presentation/d/1YWCBuZBBXLy2H1MHFpzuVV7Zx-hF5jjJ/edit#slide=id.p2)
 
 
