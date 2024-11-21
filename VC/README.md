@@ -12,7 +12,10 @@
 - Impressive resume point: Led the analysis, research, and implementation of a robust version control system, streamlining web development/production workflows to be twice as efficient and reducing website update errors by over 30%. This initiative enabled faster development of content and website features, while fostering seamless collaboration and knowledge transfer across the team through the creation of comprehensive procedure training materials.
 
 
-
+- Finalized workflow:
+  - For content changes, just take advantage of drafts and revision history to work directly on the production site
+  - For code/infrastructure changes, work on the experimental branch and test pushing changes (just the code files) to the development branch before pushing to the production site
+  - Regular routine of fully updating the development branch to match the production site (for backup purposes)
 
 
 
