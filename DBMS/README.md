@@ -17,11 +17,11 @@
 - [Proposal Document](https://docs.google.com/presentation/d/1YWCBuZBBXLy2H1MHFpzuVV7Zx-hF5jjJ/edit#slide=id.p2)
 
 
-## TDD (11/25 - 12/20)
-- [**POC stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/POC) (11/25-30) - Create a simple POC test with Airtable and establish connection with production team
-- **Alpha stage** (12/2-11) - Full implementation of the DBMS system on the experimental branch (communication and tech stack) + gathering of feedback and consideration of enhancements
-- **Beta stage** (12/16-20) - Full implementation of the DBMS system on the production site
+## TDD (12/2 - 12/25)
+- [**POC stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/POC) (12/2-10) - Create a simple POC test with Airtable and establish connection with production team
+- **Alpha stage** (12/11-17) - Full implementation of the DBMS system on the experimental branch (communication and tech stack) + gathering of feedback and consideration of enhancements
+- **Beta stage** (12/18-25) - Full implementation of the DBMS system on the production site
 
 
-## Streamlining (PAC)
+## Streamlining (PAC) (12/26 - 12/31)
 - Create a training materials document to maximize the ease of transition into the new workflow
