@@ -18,7 +18,6 @@
   - This "copy" should be updated dynamically whenever the data on Airtable is updated/changed
 
 ## TDD
-- Set up a new Airtable trial account
 - A) Establish Airtable connection and data retrieval (test the API call with cURL)
 - B) Format data for HTML output (suitable for display on Wordpress page)
 - C) Create a Wordpress shortcode to easily embed the dynamic table on any page
