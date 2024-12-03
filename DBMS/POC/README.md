@@ -5,7 +5,7 @@
   - Simple base with a single table with essential fields and sample data (based off Stock - Aspheric Lenses)
   - [Link to base](https://airtable.com/appmXtJKw9kGWHR0J/tblru3M6pYGiwqFeI/viw26Xkkake7tnCXQ?blocks=hide)
   - Table name: "Aspheric" | Base name: "AVT DBMS Test"
-  - Personal access token ("Nov-POC"): patD3Y6XZgfqKZPDZ.7f2a16a4214afc2736d819736b5d3375ef7275fa09a42ae66a8297b187480ec1
+  - Personal access token ("Dec-POC"): patEV5dMy4CeyAbtR.7c11019e0a0eba7041bbc49ad0fd873b20015f8a9f0bc584344d3dac09a75b4f
   - Base ID: appmXtJKw9kGWHR0J
 - Shortcode implementation
   - Add PHP code in 'functions.php' + utilize shortcode to embed code into Wordpress pages (experimental branch - use Chloe's SO email)
