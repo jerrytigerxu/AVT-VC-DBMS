@@ -19,10 +19,10 @@
   - This "copy" should be updated dynamically whenever the data on Airtable is updated/changed
 
 ## TDD
-- A) Establish Airtable connection and data retrieval (test the API call with cURL)
-- B) Format data for HTML output (suitable for display on Wordpress page)
-- C) Create a Wordpress shortcode to easily embed the dynamic table on any page
-- D) Dynamic updates - ensure the displayed table updates automaically when Airtable data changes
+- ~~A) Establish Airtable connection and data retrieval (test the API call with cURL)~~
+- B) Test the API call through Wordpress
+- C) Create a Wordpress shortcode (with PHP) to easily embed the dynamic table on any page
+- D) Dynamic updates - ensure the displayed table updates automaically when Airtable data changes + format the data for suitable display on Wordpress page
 
 ## Streamlining (PAC)
 - We'll need to figure out how to simplify the process of actually creating the shortcode (so we don't need to make a new function for every new stock product table) -> maybe generate the shortcode would take into account the name of the page and use that to pull the correct data from Airtable?
