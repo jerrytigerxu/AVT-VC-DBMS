@@ -25,4 +25,4 @@
 - D) Dynamic updates - ensure the displayed table updates automaically when Airtable data changes + format the data for suitable display on Wordpress page
 
 ## Streamlining (PAC)
-- We'll need to figure out how to simplify the process of actually creating the shortcode (so we don't need to make a new function for every new stock product table) -> maybe generate the shortcode would take into account the name of the page and use that to pull the correct data from Airtable?
+- We'll need to figure out how to simplify the process of actually creating the shortcode (so we don't need to make a new function for every new stock product table) -> maybe the generatation of the shortcode would take into account the name of the page and use that to pull the correct data from Airtable?
