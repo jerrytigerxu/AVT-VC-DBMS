@@ -22,7 +22,7 @@
 - ~~A) Establish Airtable connection and data retrieval (test the API call with cURL)~~
 - ~~B) Test the API call through Wordpress (create a new PHP file and include it in functions.php)~~
 - ~~C) Create a Wordpress shortcode (with PHP) to easily embed the dynamic table on any page~~
-- D) Dynamic updates - ensure the displayed table updates automaically when Airtable data changes + format the data for suitable display on Wordpress page
+- ~~D) Dynamic updates - ensure the displayed table updates automaically when Airtable data changes + format the data for suitable display on Wordpress page => simply re-running the shortcode updates the table~~
 
 ## Streamlining (PAC)
 - Actually present the POC to the marketing team
