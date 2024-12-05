@@ -26,7 +26,7 @@
 
 ## Streamlining (PAC)
 - Actually present the POC to the marketing team
-- Adjust the code so that with shortcode we can specify the specific table in the base to pull from Airtable
+- ~~Adjust the code so that with shortcode we can specify the specific table in the base to pull from Airtable~~
   - **Success:** Now I can add a shortcode attribute to specify the table_name like "[airtable table_name="OAP"]" and it works!  
-- Adjust the code to manually set the actual column names for each table when setting the shortcode
+- ~~Adjust the code to manually set the actual column names for each table when setting the shortcode~~
   - **Success:** Now I can add the shortcode attribute to specify the column_names like "[airtable table_name="OAP" column_names="Part Number, Random Field #1, Random Field #2, Thickness (mm), Material"]"
