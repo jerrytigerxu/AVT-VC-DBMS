@@ -26,4 +26,5 @@
 
 ## Streamlining (PAC)
 - Actually present the POC to the marketing team
-- We'll need to figure out how to simplify the process of actually creating the shortcode (so we don't need to make a new function for every new stock product table) -> maybe the generatation of the shortcode would take into account the name of the page and use that to pull the correct data from Airtable? (utilize Shortcode attributes)
+- Adjust the code so that with shortcode we can specify the specific table in the base to pull from Airtable
+- Adjust the code to manually set the actual column names for each table when setting the shortcode
