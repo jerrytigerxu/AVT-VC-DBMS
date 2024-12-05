@@ -1,6 +1,7 @@
 <?php
 
 function airtable_shortcode( $atts ) {
+  // Handling of the shortcode attributes
   $atts = shortcode_atts( array(
         'base_id' => 'appmXtJKw9kGWHR0J', // Default Base ID
         'table_name' => 'Aspheric', // Default table name
@@ -11,7 +12,8 @@ function airtable_shortcode( $atts ) {
     $baseId = $atts['base_id'];
     $tableName = $atts['table_name'];
     $url = "https://api.airtable.com/v0/$baseId/$tableName";
-  
+
+  // Data fetching from Airtable
   $ch = curl_init($url);
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
         'Authorization: Bearer ' . $apiKey,
