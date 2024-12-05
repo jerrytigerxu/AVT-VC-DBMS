@@ -25,7 +25,7 @@
 - ~~D) Dynamic updates - ensure the displayed table updates automaically when Airtable data changes + format the data for suitable display on Wordpress page => simply re-running the shortcode updates the table~~
 
 ## Streamlining (PAC)
-- Actually present the POC to the marketing team
+- ~~Actually present the POC to the marketing team~~
 - ~~Adjust the code so that with shortcode we can specify the specific table in the base to pull from Airtable~~
   - **Success:** Now I can add a shortcode attribute to specify the table_name like "[airtable table_name="OAP"]" and it works!  
 - ~~Adjust the code to manually set the actual column names for each table when setting the shortcode~~
