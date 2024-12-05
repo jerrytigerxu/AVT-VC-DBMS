@@ -21,7 +21,7 @@ function airtable_shortcode( $atts ) {
     $response = curl_exec($ch);
     curl_close($ch);
 
-  // ******************  All of the necessary JSON data is in "$data"  **************
+  // ******************  "$data" now contains a PHP array that was converted from the JSON data  **************
   $data = json_decode($response, true);
   
   // Sort records by part number 
