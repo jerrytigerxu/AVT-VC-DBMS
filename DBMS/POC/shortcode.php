@@ -1,7 +1,7 @@
 <?php
 
 function airtable_shortcode( $atts ) {
-  // Handling of the shortcode attributes (indlucing table_name)
+  // Handling of the shortcode attributes (including table_name)
   $atts = shortcode_atts( array(
         'base_id' => 'appmXtJKw9kGWHR0J', // Default Base ID
         'table_name' => 'Aspheric', // Default table name
