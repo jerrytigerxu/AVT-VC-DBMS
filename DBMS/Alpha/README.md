@@ -1,4 +1,4 @@
-# DBMS Alpha Stage (12/9-17)
+# DBMS Alpha Stage (12/9-13, 16-17)
 
 ## Steps
 - Create full-blown test of functionality on AVT experimental branch and on SO staging site -> fully create two stock product tables each
