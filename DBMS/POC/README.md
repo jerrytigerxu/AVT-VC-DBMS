@@ -7,6 +7,7 @@
   - Table name: "Aspheric" | Base name: "AVT DBMS Test"
   - Personal access token ("Dec-POC"): patEV5dMy4CeyAbtR.7c11019e0a0eba7041bbc49ad0fd873b20015f8a9f0bc584344d3dac09a75b4f
   - Base ID: appmXtJKw9kGWHR0J
+  - Base name: "SO DBMS Test" | SO-POC -> patf8zEvldxkECHlu.2e4565a09b4f8740db813fcfb1454b6c278023189477e1b696deea68e3fc057c | Base ID: "appBTRKLmk7QC1lXl"
 - Shortcode implementation
   - Add PHP code in 'functions.php' + utilize shortcode to embed code into Wordpress pages (experimental branch - use Chloe's SO email)
 - Demonstrate to the marketing and production teams what Airtable x APIs can do
