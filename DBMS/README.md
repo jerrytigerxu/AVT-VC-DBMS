@@ -25,4 +25,4 @@
 
 
 ## Streamlining (PAC) (12/26 - 12/31)
-- Create a training materials document to maximize the ease of transition into the new workflow
+- Create a training materials document to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
