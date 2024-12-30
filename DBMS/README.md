@@ -21,9 +21,9 @@
 - ~~[**POC stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/POC) (12/2-10) - Create a simple POC test with Airtable and establish connection with production team~~
 - ~~[**Alpha stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Alpha) (12/9-13) - Full implementation of the DBMS system on the experimental branch (communication and tech stack) + gathering of feedback and consideration of enhancements~~
   - The marketing team will be the hub of the product/price information (Airtable) and the production team should only highlight the changes of CRUD
-- [**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) (12/16-31) - Full implementation of the DBMS system on the production site
+- [**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) (12/16-1/3) - Full implementation of the DBMS system on the production site
 
 
-## Streamlining (PAC) (1/2 - 1/10)
+## Streamlining (PAC) (1/6 - 1/10)
 - Create a training materials document to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
   - One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses")
