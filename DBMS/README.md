@@ -25,5 +25,6 @@
 
 
 ## Streamlining (PAC) (1/6 - 1/10)
+- Refine the PDF format for the price list generation
 - Create a training materials document to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
   - One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses")
