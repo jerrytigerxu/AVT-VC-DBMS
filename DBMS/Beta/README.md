@@ -1,4 +1,4 @@
-# Beta (12/16-25)
+# Beta (12/16-1/3)
 
 - A) ~~Full implementation of AVT stock product pages on the production site (create exact replicas of the existing stock pages as private published pages) (12/16-18) (we as the marketing team decided that we need to purchase the "Team" price tier for Airtable (because of the expanded data limit and other capabilities~~
 - ~~B) POC for price list generation workflow (12/19-23) | await the purchase of the "Team" tier of Airtable before finishing every single stock page~~
