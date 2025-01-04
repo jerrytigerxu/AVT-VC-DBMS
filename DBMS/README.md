@@ -22,14 +22,19 @@
 - [Proposal Document](https://docs.google.com/presentation/d/1YWCBuZBBXLy2H1MHFpzuVV7Zx-hF5jjJ/edit#slide=id.p2)
 
 
-## TDD (12/2 - 12/31)
+## TDD 
 - ~~[**POC stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/POC) (12/2-10) - Create a simple POC test with Airtable and establish connection with production team~~
 - ~~[**Alpha stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Alpha) (12/9-13) - Full implementation of the DBMS system on the experimental branch (communication and tech stack) + gathering of feedback and consideration of enhancements~~
   - The marketing team will be the hub of the product/price information (Airtable) and the production team should only highlight the changes of CRUD
-- [**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) (12/16-1/3) - Full implementation of the DBMS system on the production site
+- [**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) - Full implementation of the DBMS system on the production site
 
 
-## Streamlining (PAC) (1/6 - 1/10)
-- Refine the PDF format for the price list generation
+## Streamlining (PAC)
+- Figure out the best solution (balancing efficiency with sustainability) for the "secondary functionality" of price list generation
+  - Await decision regarding whether or not the marketing team wants to keep the price lists
+  - Instead of having automated PDF generation for the price list, we can have an extra manual step that makes it easier for direct customization especially for those who are not tech savvy 
+  - We will still take advantage of the Air table API connection for displaying the data on the website, but for generating the PDFs we can have a no code design solution (either a WordPress plugin or a third party platform) -> we can have the HTML for the data be ready for download so that the HTML can be imported into the design tool 
+  - The end result is that we'll never have to worry about CRUD operations and would only need to focus on the design and display information
+  - Cons: there are still manual steps | Pros: minimizes the amount of coding necessary and maximizes design and customization agency
 - Create a training materials document to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
   - One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses")
