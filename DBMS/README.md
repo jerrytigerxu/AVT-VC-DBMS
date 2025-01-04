@@ -25,7 +25,7 @@
 ## TDD 
 - ~~[**POC stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/POC) (12/2-10) - Create a simple POC test with Airtable and establish connection with production team~~
 - ~~[**Alpha stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Alpha) (12/9-13) - Full implementation of the DBMS system on the experimental branch (communication and tech stack) + gathering of feedback and consideration of enhancements~~
-  - The marketing team will be the hub of the product/price information (Airtable) and the production team should only highlight the changes of CRUD
+  - ~~The marketing team will be the hub of the product/price information (Airtable) and the production team should only highlight the changes of CRUD~~
 - [**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) - Full implementation of the DBMS system on the production site
 
 
