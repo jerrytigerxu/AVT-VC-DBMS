@@ -8,6 +8,11 @@
   - Production team makes adjustments to product + price info and edits the Airtable bases directly
   - The marketing team will approve of the changes and then trigger the API calls to directly update the corresponding pages on the AVT site
   - Any changes that need to be made can be reverted within the 2-week timeframe
+- Birds-eye view of the full system
+  - Data management - product/price data lives in Airtable and marketing team uses the Airtable interface to manage this data (CRUD operations)
+  - Website integration - PHP shortcode to fetch and display the data from Airtable in HTML tables on Wordpress web page
+  - User experience - visitors to the product pages will see: product information displayed in an HTML table and a link to download the price list PDF at the bottom of the page
+  - VERY IMPORTANT: Do not have commas between the attributes! You only need spaces in between! 
  
 ---
 
