@@ -7,4 +7,5 @@
 - ~~D) Full implementation of basic Airtable setup & price list generation workflow (12/24-31)~~
 - E) AVT production site overhaul (1/6-1/10)
   - Double-check the AVT stock product tables and figure out the three categories that need further discussion (scWafers, oapMirrors, microscopeObjectives (probably need a separate base for this) )
-  - Push changes to production branch
+  - Push code changes to production branch
+  - "Replace" all of the old HTML tables with the corresponding Airtable tables
