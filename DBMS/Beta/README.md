@@ -8,4 +8,5 @@
 - E) AVT production site overhaul (1/6-1/10)
   - Double-check the AVT stock product tables and figure out the three categories that need further discussion (scWafers, oapMirrors, microscopeObjectives (probably need a separate base for this) )
   - ~~Push code changes to production branch~~
+  - ~~Confirm that you can have multiple bases~~
   - "Replace" all of the old HTML tables with the corresponding Airtable tables
