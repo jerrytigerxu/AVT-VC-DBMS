@@ -7,7 +7,7 @@
 - ~~D) Full implementation of basic Airtable setup & price list generation workflow (12/24-31)~~
 - E) AVT production site overhaul (1/6-1/10)
   - Double-check the AVT stock product tables and figure out the three categories that need further discussion (scWafers, oapMirrors, microscopeObjectives)
-    - Regarding Microscope Objectives, I only created tables for the DL series -> we need to clarify what is going on with the YX series (ask the production team to consolidate into fewer tables if they are still making them at all)
+    - Regarding Microscope Objectives, I didn't create tables for the YX series (there's simply too much) -> we need to clarify what is going on with the YX series (ask the production team to consolidate into fewer tables if they are still making them at all)
   - ~~Push code changes to production branch~~
   - ~~Confirm that you can have multiple bases~~
   - "Replace" all of the old HTML tables with the corresponding Airtable tables
