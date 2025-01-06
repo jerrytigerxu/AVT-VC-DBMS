@@ -37,4 +37,5 @@
   - The end result is that we'll never have to worry about CRUD operations and would only need to focus on the design and display information
   - Cons: there are still manual steps | Pros: minimizes the amount of coding necessary and maximizes design and customization agency
 - Create a training materials document to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
+  - Explain all of the attributes that the shortcode needs
   - One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses")
