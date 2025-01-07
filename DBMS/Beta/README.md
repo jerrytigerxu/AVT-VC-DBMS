@@ -10,4 +10,4 @@
     - Regarding Microscope Objectives, I didn't create tables for the YX series (there's simply too much) -> we need to clarify what is going on with the YX series (ask the production team to consolidate into fewer tables if they are still making them at all)
   - ~~Push code changes to production branch~~
   - ~~Confirm that you can have multiple bases~~
-  - "Replace" all of the old HTML tables with the corresponding Airtable tables
+  - "Replace" all of the old HTML tables with the corresponding Airtable tables (start with the simple stock product pages) (1/7-10)
