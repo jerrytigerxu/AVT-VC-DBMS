@@ -12,4 +12,4 @@
   - ~~Confirm that you can have multiple bases~~
   - "Replace" all of the old HTML tables with the corresponding Airtable tables (start with the simple stock product pages) (1/7-10)
     - New procedure: take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection | then just clone the older stock pages and replace the HTML tables with the Airtable shortcode
-    - Pages to create: (aspheric lenses, bandpass filters, IR lenses, UV Bandpass Filters, Narrow Bandpass Filters, Germanium Windows, Sapphire Windows, Germanium Aspheric Lenses, F-Theta Lenses, Beam Expanders, Fisheye Lenses, FFL Lenses, Telecentric Lenses, Zoom Lenses, SC Wafers, OAP Mirrors, Microscope Objectives)
+    - Pages to create: (aspheric lenses, bandpass filters, IR lenses, ~~UV Bandpass Filters,~~ Narrow Bandpass Filters, Germanium Windows, Sapphire Windows, Germanium Aspheric Lenses, F-Theta Lenses, Beam Expanders, Fisheye Lenses, FFL Lenses, Telecentric Lenses, Zoom Lenses, SC Wafers, OAP Mirrors, Microscope Objectives)
