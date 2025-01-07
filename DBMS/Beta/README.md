@@ -11,3 +11,4 @@
   - ~~Push code changes to production branch~~
   - ~~Confirm that you can have multiple bases~~
   - "Replace" all of the old HTML tables with the corresponding Airtable tables (start with the simple stock product pages) (1/7-10)
+    - New procedure: take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection
