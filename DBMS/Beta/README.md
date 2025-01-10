@@ -11,7 +11,7 @@
   - ~~Push code changes to production branch~~
   - ~~Confirm that you can have multiple bases~~
   - ~~Create the microscope objectives YX tables |and scWafers and oapMirrors (based on the changes in table format we discussed) (1/8)~~
-  - "Replace" all of the old HTML tables with the corresponding Airtable tables (start with the simple stock product pages) (1/9-10)
+  - "Replace" all of the old HTML tables with the corresponding Airtable tables (1/9-10, 13-17)
     - **Pages to create:**
       - Finished: ~~aspheric lenses,~~ ~~bandpass filters,~~ ~~IR lenses,~~ ~~UV Bandpass Filters,~~ ~~Germanium Windows,~~ ~~Sapphire Windows,~~ ~~Germanium Aspheric Lenses,~~ ~~SC Wafers,~~
       - WIP: Narrow Bandpass Filters, F-Theta Lenses, Fisheye Lenses, Telecentric Lenses
