@@ -5,7 +5,7 @@
 - ~~C) Address "critical error" that appears on Wordpress (find out how to replicate it, then figure out the source)~~
   - ~~Signing out of Wordpress or out of Airtable doesn't directly cause an issue -> it might be a time matter (also test between drafts and published pages) -> for drafts the shortcode could be executed many times in the background because of autosaves and revision history while for published pages the shortcode only runs once~~
 - ~~D) Full implementation of basic Airtable setup & price list generation workflow (12/24-31)~~
-- E) AVT production site overhaul (1/6-1/10)
+- E) AVT production site overhaul (1/6-1/17)
   - ~~Double-check the AVT stock product tables and figure out the three categories that need further discussion (scWafers, oapMirrors, microscopeObjectives)~~
     - ~~Regarding Microscope Objectives, I didn't create tables for the YX series (there's simply too much) -> we need to clarify what is going on with the YX series (ask the production team to consolidate into fewer tables if they are still making them at all)~~
   - ~~Push code changes to production branch~~
