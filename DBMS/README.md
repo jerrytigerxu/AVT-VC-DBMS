@@ -29,7 +29,8 @@
 - [**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) - Full implementation of the DBMS system on the production site (deadline: 1/17/25)
 
 
-## Streamlining (PAC) (work on the two tasks concurrently) (1/20/25 - 1/31/25)
+## Streamlining (PAC) (work on the three tasks concurrently) (1/20/25 - 1/31/25)
+- Ask marketing team to clean up the data for Airtable (to make sure everything matches up before making the new stock product pages public)
 - Figure out the best solution (balancing efficiency with sustainability) for the "secondary functionality" of price list generation
   - Await decision regarding whether or not the marketing team wants to keep the price lists
   - Instead of having automated PDF generation for the price list, we can have an extra manual step that makes it easier for direct customization especially for those who are not tech savvy 
