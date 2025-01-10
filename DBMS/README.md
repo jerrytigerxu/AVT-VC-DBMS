@@ -36,6 +36,6 @@
   - We will still take advantage of the Air table API connection for displaying the data on the website, but for generating the PDFs we can have a no code design solution (either a WordPress plugin or a third party platform) -> we can have the HTML for the data be ready for download so that the HTML can be imported into the design tool 
   - The end result is that we'll never have to worry about CRUD operations and would only need to focus on the design and display information
   - Cons: there are still manual steps | Pros: minimizes the amount of coding necessary and maximizes design and customization agency
-- Create a training materials document to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
+- Create a training materials document (plus video recordings of your training the marketing team) to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
   - Explain all of the attributes that the shortcode needs
   - One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses")
