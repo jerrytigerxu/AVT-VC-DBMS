@@ -13,7 +13,7 @@
   - ~~Create the microscope objectives YX tables |and scWafers and oapMirrors (based on the changes in table format we discussed) (1/8)~~
   - "Replace" all of the old HTML tables with the corresponding Airtable tables (1/9-10, 13-17)
     - **Pages to create:**
-      - Finished: ~~aspheric lenses,~~ ~~bandpass filters,~~ ~~IR lenses,~~ ~~UV Bandpass Filters,~~ ~~Germanium Windows,~~ ~~Sapphire Windows,~~ ~~Germanium Aspheric Lenses,~~ ~~SC Wafers,~~
-      - WIP (address data issue): Narrow Bandpass Filters, F-Theta Lenses, Fisheye Lenses, Telecentric Lenses
+      - Finished: ~~aspheric lenses,~~ ~~bandpass filters,~~ ~~IR lenses,~~ ~~UV Bandpass Filters,~~ ~~Germanium Windows,~~ ~~Sapphire Windows,~~ ~~Germanium Aspheric Lenses,~~ ~~SC Wafers,~~ ~~Narrow Bandpass Filters~~, 
+      - WIP (address data issue): F-Theta Lenses, Fisheye Lenses, Telecentric Lenses
       - To Do: FFL Lenses, Zoom Lenses, OAP Mirrors, Microscope Objectives (main), Microscope Objectives (YX), Beam Expanders (create both tables properly)
     - New procedure: take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection | then just clone the older stock pages (initially label them as "New") and replace the HTML tables with the Airtable shortcode
