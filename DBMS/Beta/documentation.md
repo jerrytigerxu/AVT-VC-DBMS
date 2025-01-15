@@ -1,4 +1,4 @@
-## Troubleshooting process (Data issue with fisheyeLenses and telecentricLenses)
+## Troubleshooting process (Data issue with fisheyeLenses and telecentricLenses) (resolved 1/14/25)
 
 **Problem:** Some records were randomly missing when pulling data from these Airtable tables into WordPress, and the sorting seemed inconsistent. This issue only occurred with specific tables and appeared to be related to the number of records in those tables.
 
