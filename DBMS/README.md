@@ -30,15 +30,17 @@
 
 
 ## Streamlining (PAC) (work on the three tasks concurrently) (1/20/25 - 1/31/25)
-- Completion of implementation
-  - Ask marketing team to clean up the data for Airtable (to make sure everything matches up before making the new stock product pages public)
-  - Make the "new" stock pages the public stock pages | take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection
-- Figure out the best solution (balancing efficiency with sustainability) for the "secondary functionality" of price list generation
-  - Await decision regarding whether or not the marketing team wants to keep the price lists
-  - Instead of having automated PDF generation for the price list, we can have an extra manual step that makes it easier for direct customization especially for those who are not tech savvy 
-  - We will still take advantage of the Air table API connection for displaying the data on the website, but for generating the PDFs we can have a no code design solution (either a WordPress plugin or a third party platform) -> we can have the HTML for the data be ready for download so that the HTML can be imported into the design tool 
-  - The end result is that we'll never have to worry about CRUD operations and would only need to focus on the design and display information
-  - Cons: there are still manual steps | Pros: minimizes the amount of coding necessary and maximizes design and customization agency
-- Create a training materials document (plus video recordings of your training the marketing team) to maximize the ease of transition into the new workflow (update the price list update procedure based on how Airtable works - https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0)
-  - Explain all of the attributes that the shortcode needs
-  - One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses")
+- A) Completion of implementation
+  - A1 - Ask the marketing team to clean up (mainly double-check) the data for Airtable
+  - A2 - Make the "new" stock pages the public stock pages and take the older stock pages to make them private (Make the "new" stock pages the public stock pages | take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection)
+  - A3 - Test the Airtable connection and ensure the data integrity
+- B) Figure out the best solution for price list generation
+  - B1 - Await decision regarding whether or not the marketing team wants to keep the price lists
+  - B2 - If the marketing team wants to keep the price lists, investigate no-code design solutions (WordPress plugin or third-party platform) that can generate PDFs | If the marketing team decides to abandon price lists, focus on optimizing the Airtable connection for data display on the website.
+  - B3 - Document the decision regarding price lists and the chosen solution for future reference.
+- C) Create training materials
+  - C1 - Draft the training materials document, covering the new workflow and the use of Airtable for price list updates (Explain all of the attributes that the shortcode needs| One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses"))
+  - C2 - Record a video tutorial explaining the new workflow and demonstrating how to use Airtable for price list updates.
+  - C3 - Update the existing training materials document (https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0) with the new workflow and Airtable instructions.
+  - C4 - Distribute the training materials and provide support during the transition
+ 
