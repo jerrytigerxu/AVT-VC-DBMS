@@ -33,6 +33,7 @@
 - A) Completion of implementation
   - A1 - Ask the marketing team to clean up (mainly double-check) the data for Airtable
   - A2 - Make the "new" stock pages the public stock pages and take the older stock pages to make them private (Make the "new" stock pages the public stock pages | take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection)
+    - Important element of the procedure -> we have to put the shortcode onto the original pages (the clones become the backups)
   - A3 - Test the Airtable connection and ensure the data integrity
 - B) Figure out the best solution for price list generation
   - B1 - Await decision regarding whether or not the marketing team wants to keep the price lists
