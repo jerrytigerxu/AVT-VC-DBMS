@@ -35,7 +35,7 @@
   - A2 - Make the "new" stock pages the public stock pages and take the older stock pages to make them private (Make the "new" stock pages the public stock pages | take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection)
     - Important element of the procedure -> we have to put the shortcode onto the original pages (the clones become the backups)
   - A3 - Test the Airtable connection and ensure the data integrity
-- B) Figure out the best solution for price list generation (discontinue this - if we need to implement this later (if somehow this is necessary and has ROI), it will be a separate project)
+- B) (discontinue this - if we need to implement this later (if somehow this is necessary and has ROI), it will be a separate project) ~~Figure out the best solution for price list generation~~ 
   - ~~B1 - Await decision regarding whether or not the marketing team wants to keep the price lists~~
   - ~~B2 - If the marketing team wants to keep the price lists, investigate no-code design solutions (WordPress plugin or third-party platform) that can generate PDFs | If the marketing team decides to abandon price lists, focus on optimizing the Airtable connection for data display on the website.~~
   - ~~B3 - Document the decision regarding price lists and the chosen solution for future reference.~~
