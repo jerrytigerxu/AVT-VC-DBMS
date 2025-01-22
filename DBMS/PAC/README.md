@@ -16,6 +16,8 @@
 
 Accessing Airtable:
 - Log in to the company Airtable account: (placeholder: link to your company Airtable account or instructions for accessing it)
+
+
 Navigating the Airtable interface:
  - Bases: You'll find all relevant product information in separate bases within this account.
  - Tables and Views: Each base contains tables, and you can use different views to organize the data.
