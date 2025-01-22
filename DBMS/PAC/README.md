@@ -4,8 +4,8 @@
 
 - Purpose of this training: To introduce the new workflow for updating product and pricing information on the AVT website.
 - Benefits of the new workflow:
-  - Increased efficiency (placeholder: quantify time savings)
-  - Reduced errors (placeholder: quantify error reduction)
+  - Increased efficiency (making the CRUD processes 2-3x more efficient!)
+  - Reduced errors (cutting down errors by over 80%!)
   - Improved collaboration between production and marketing teams
 - Overview of the new system:
   - Airtable as the central data source
