@@ -43,6 +43,5 @@
   - ~~C1 - Draft/outline the training materials document, covering the new workflow and the use of Airtable for price list updates (Explain all of the attributes that the shortcode needs| One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses"))~~
   - C2 - Fill in the details of the training document | update the existing training materials document (https://docs.google.com/document/d/1GnsRCRwW9YfqyiwXnfDC-bqT414wsFJHUhj-LAKaWUo/edit?tab=t.0#heading=h.vb65bwinjcr0) with the new workflow and Airtable instructions.
   - C3 - (after compiling questions and "guidance requests" from the team) Record a video tutorial explaining the new workflow and demonstrating how to use Airtable for price list updates.
-  - 
   - C4 - Distribute the training materials and provide support during the transition
  
