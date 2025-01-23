@@ -39,7 +39,7 @@
   - ~~B1 - Await decision regarding whether or not the marketing team wants to keep the price lists~~
   - ~~B2 - If the marketing team wants to keep the price lists, investigate no-code design solutions (WordPress plugin or third-party platform) that can generate PDFs | If the marketing team decides to abandon price lists, focus on optimizing the Airtable connection for data display on the website.~~
   - ~~B3 - Document the decision regarding price lists and the chosen solution for future reference.~~
-- C) Create training materials
+- C) [Create training materials](https://docs.google.com/document/d/1V4a86AQMCxfW-WlUkQnFpobg8zB_R_LypZsDvJaKYII/edit?tab=t.0)
   - ~~C1 - Draft/outline the training materials document, covering the new workflow and the use of Airtable for price list updates (Explain all of the attributes that the shortcode needs| One important point for documentation -> make sure the table names have no spaces! (Ex: "Aspheric Lenses" should be "asphericLenses"))~~
   - ~~C2 - Fill in the details of the training document~~
   - C3 - (after compiling questions and "guidance requests" from the team) Record a video tutorial explaining the new workflow and demonstrating how to use Airtable for price list updates.
