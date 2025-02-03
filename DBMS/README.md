@@ -32,8 +32,7 @@
 ## Streamlining (PAC) (work on the three tasks concurrently) (1/20/25 - 1/31/25)
 - A) Completion of implementation
   - ~~(follow up on this again on 1/22/25)~~ ~~A1 - Ask the marketing team to clean up (mainly double-check) the data for Airtable~~
-  - A2 - Make the "new" stock pages the public stock pages and take the older stock pages to make them private (Make the "new" stock pages the public stock pages | take the older stock product pages and make them private (and change the titles to include "backup") -> these pages would then serve as backup pages in case something goes wrong with the Airtable connection)
-    - Important element of the procedure -> we have to put the shortcode onto the original pages (the clones become the backups)
+  - A2 - Replace the original stock price pages with the new shortcode
   - A3 - Test the Airtable connection and ensure the data integrity
 - B) (discontinue this - if we need to implement this later (if somehow this is necessary and has ROI), it will be a separate project) ~~Figure out the best solution for price list generation~~ 
   - ~~B1 - Await decision regarding whether or not the marketing team wants to keep the price lists~~
