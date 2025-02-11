@@ -29,11 +29,11 @@
 - ~~[**Beta stage**](https://github.com/jerrytigerxu/AVT-VC-DBMS/tree/main/DBMS/Beta) - Full implementation of the DBMS system on the production site (deadline: 1/17/25)~~
 
 
-## Streamlining (PAC) (work on the three tasks concurrently) (1/20/25 - 1/31/25)
-- A) Completion of implementation
+## ~~Streamlining (PAC) (work on the three tasks concurrently) (1/20/25 - 1/31/25)~~
+- ~~A) Completion of implementation~~
   - ~~(follow up on this again on 1/22/25)~~ ~~A1 - Ask the marketing team to clean up (mainly double-check) the data for Airtable~~
-  - A2 - Replace the original stock price pages with the new shortcode
-  - A3 - Test the Airtable connection and ensure the data integrity
+  - ~~A2 - Replace the original stock price pages with the new shortcode~~
+  - ~~A3 - Test the Airtable connection and ensure the data integrity~~
 - B) (discontinue this - if we need to implement this later (if somehow this is necessary and has ROI), it will be a separate project) ~~Figure out the best solution for price list generation~~ 
   - ~~B1 - Await decision regarding whether or not the marketing team wants to keep the price lists~~
   - ~~B2 - If the marketing team wants to keep the price lists, investigate no-code design solutions (WordPress plugin or third-party platform) that can generate PDFs | If the marketing team decides to abandon price lists, focus on optimizing the Airtable connection for data display on the website.~~
