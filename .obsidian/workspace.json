@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -163,5 +163,7 @@
     }
   },
   "active": "5324edb36233620f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DBMS/README.md"
+  ]
 }
